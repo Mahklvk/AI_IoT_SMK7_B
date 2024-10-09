@@ -1,2 +1,3 @@
 # AI_IoT_SMK7_B
-# AI_IoT_SMK7_B
+
+### Belajar koding
